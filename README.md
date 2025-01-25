@@ -24,3 +24,8 @@ I'm very excited to be given this opportunity to participate in the Product Mana
 
 
 Thanks for stopping by  🌸
+
+### <ins> Screenshots and notes needed for homework week 1 </ins>
+
+1.  <mark> .gitignore</mark> is a file in my repo that tells Git and GitHub to be ignored when making a commit. In my case, it's Python file
+2.  <mark> requirements.txt </mark> has been created - this is a list of all product dependencies and requirements outlining what technologies/libraries. It's helpful when it comes to collaboration and deployment, ensuring consistency across various setups.
