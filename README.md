@@ -12,14 +12,15 @@ I'm very excited to be given this opportunity to participate in the Product Mana
 - Taking long walks by the river 🌊
 - Travelling to discover new places ✈️
 - Experimenting in the kitchen with cooking 🥘
-- Reading and listening podcasts about self-development 📚
+- Reading and listening to podcasts about self-development 📚
 - Meeting new people  😊 
 
 ### You can find me on: 
 
-+ LinkedIn: www.linkedin.com/in/natalia-cybulska-ozlav-86695395
-+ My website: https://www.ncodigital.co.uk
-+ Twitter: https://x.com/ncybulskaozlav
++ [LinkedIn](www.linkedin.com/in/natalia-cybulska-ozlav-86695395)
++ [My website](https://www.ncodigital.co.uk)
++ [Twitter](https://x.com/ncybulskaozlav)
+
 
 
 Thanks for stopping by  🌸
