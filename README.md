@@ -27,5 +27,16 @@ Thanks for stopping by  🌸
 
 ### <ins> Screenshots and notes needed for homework week 1 </ins>
 
+1. Checking status
+2. Creating branches![Screenshot 2025-01-26 at 10 20 42](https://github.com/user-attachments/assets/b05cec5f-5d71-4c6c-968c-b8cd2f1b9efe)
+3. Adding files GitHub![Scre![Screenshot 2025-01-26 at 10 27 35](https://github.com/user-attachments/assets/377e4516-e40c-4c01-bf7b-5613f1d92130)
+enshot 2025-01-25 at 20 00 12](https://github.com/user-attachments/assets/b6f76641-704d-4fe3-9fc5-06cae80c2e65)
+   Adding new file VS code ![Screenshot 2025-01-26 at 10 27 35](https://github.com/user-attachments/assets/5148436a-d57a-428e-9562-2889df76ae82)
+
+5. Adding commits with meaningful messages - My terminal isn't working but I would add a message as <mark>git commit -m (JS file added) </mark> 
+6. Opening pull request
+7. Meging and deploying
+
+
 1.  <mark> .gitignore</mark> is a file in my repo that tells Git and GitHub to be ignored when making a commit. In my case, it's Python file
 2.  <mark> requirements.txt </mark> has been created - this is a list of all product dependencies and requirements outlining what technologies/libraries. It's helpful when it comes to collaboration and deployment, ensuring consistency across various setups.
