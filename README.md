@@ -9,11 +9,11 @@ I'm very excited to be given this opportunity to participate in the Product Mana
 
  ## When I'm not building websites or making them rank in organic search...
  
-- Taking long walks by the river 🌊
-- Travelling to discover new places ✈️
-- Experimenting in the kitchen with cooking 🥘
-- Reading and listening to podcasts about self-development 📚
-- Meeting new people  😊 
+- I take long walks by the river 🌊
+- Travel to discover new places ✈️
+- Experiment in the kitchen with cooking 🥘
+- Read and listen to podcasts about self-development 📚
+- Meet new people  😊 
 
 ### You can find me on: 
 
