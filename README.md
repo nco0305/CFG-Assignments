@@ -32,7 +32,10 @@ Thanks for stopping by  🌸
 
 
 3. Creating branches![Screenshot 2025-01-26 at 10 20 42](https://github.com/user-attachments/assets/b05cec5f-5d71-4c6c-968c-b8cd2f1b9efe)
-4. Adding files GitHub![Scre![Screenshot 2025-01-26 at 10 27 35](https://github.com/user-attachments/assets/377e4516-e40c-4c01-bf7b-5613f1d92130)
+   New branch in Terminal ![Screenshot 2025-01-26 at 13 20 12](https://github.com/user-attachments/assets/8e2397b2-e2cc-4f88-a4e3-b53f8ac2f3d9)
+
+
+5. Adding files GitHub![Scre![Screenshot 2025-01-26 at 10 27 35](https://github.com/user-attachments/assets/377e4516-e40c-4c01-bf7b-5613f1d92130)
 enshot 2025-01-25 at 20 00 12](https://github.com/user-attachments/assets/b6f76641-704d-4fe3-9fc5-06cae80c2e65)
    Adding new file VS code ![Screenshot 2025-01-26 at 10 27 35](https://github.com/user-attachments/assets/5148436a-d57a-428e-9562-2889df76ae82)
    or adding files in Terminal touch sample.txt 
