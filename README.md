@@ -28,16 +28,19 @@ Thanks for stopping by  🌸
 ### <ins> Screenshots and notes needed for homework week 1 </ins>
 
 1. Checking status
-    ![Screenshot 2025-01-26 at 12 01 43](https://github.com/user-attachments/assets/acb9d614-bd12-466c-8ca3-89506ff55e0c)
+    ![Screenshot 2025-01-26 at 12 05 43](https://github.com/user-attachments/assets/3aaa71e0-6fa0-4f44-9f63-2022f12c3561)
+
 
 3. Creating branches![Screenshot 2025-01-26 at 10 20 42](https://github.com/user-attachments/assets/b05cec5f-5d71-4c6c-968c-b8cd2f1b9efe)
 4. Adding files GitHub![Scre![Screenshot 2025-01-26 at 10 27 35](https://github.com/user-attachments/assets/377e4516-e40c-4c01-bf7b-5613f1d92130)
 enshot 2025-01-25 at 20 00 12](https://github.com/user-attachments/assets/b6f76641-704d-4fe3-9fc5-06cae80c2e65)
    Adding new file VS code ![Screenshot 2025-01-26 at 10 27 35](https://github.com/user-attachments/assets/5148436a-d57a-428e-9562-2889df76ae82)
+   or adding files in Terminal touch sample.txt 
+![Screenshot 2025-01-26 at 12 12 37](https://github.com/user-attachments/assets/45c2157b-9944-4dc0-a20c-166f91ee286a)
 
-5. Adding commits with meaningful messages - My terminal isn't working but I would add a message as <mark>git commit -m (JS file added) </mark> 
-6. Opening pull request
-7. Meging and deploying
+6. Adding commits with meaningful messages - My terminal isn't working but I would add a message as <mark>git commit -m (JS file added) </mark> 
+7. Opening pull request
+8. Meging and deploying
 
 
 1.  <mark> .gitignore</mark> is a file in my repo that tells Git and GitHub to be ignored when making a commit. In my case, it's Python file
