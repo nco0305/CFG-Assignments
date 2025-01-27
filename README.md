@@ -48,12 +48,17 @@ eenshot 2025-01-26 at 12 12 37](https://github.com/user-attachments/assets/45c21
    ![Screenshot 2025-01-26 at 12 23 42](https://github.com/user-attachments/assets/91772232-5630-4f4c-814f-d9fc2c2e72d0)
 
 8. Opening pull request
-9. Merging and deploying
+
+   ![Screenshot 2025-01-27 at 15 51 02](https://github.com/user-attachments/assets/79ad1826-b87e-417a-a767-f9efb471f04a)
+
+
+   
+10. Merging 
     merging - git merge + branch name 
     ![Screenshot 2025-01-26 at 13 33 50](https://github.com/user-attachments/assets/da46f759-3827-498b-ba54-3ee2dbe7458c)
 
 
-
+Second part of week 1 assigment 
 
 1.  <mark> .gitignore</mark> is a file in my repo that tells Git and GitHub to be ignored when making a commit. In my case, it's Python file
 2.  <mark> requirements.txt </mark> has been created - this is a list of all product dependencies and requirements outlining what technologies/libraries. It's helpful when it comes to collaboration and deployment, ensuring consistency across various setups.
