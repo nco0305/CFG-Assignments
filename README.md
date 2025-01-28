@@ -17,7 +17,7 @@ I'm very excited to be given this opportunity to participate in the Product Mana
 
 ### You can find me on: 
 
-+ [LinkedIn](www.linkedin.com/in/natalia-cybulska-ozlav-86695395)
++ [LinkedIn](https://www.linkedin.com/in/natalia-cybulska-ozlav-86695395/)
 + [My website](https://www.ncodigital.co.uk)
 + [Twitter](https://x.com/ncybulskaozlav)
 
